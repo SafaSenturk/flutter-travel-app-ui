@@ -179,8 +179,8 @@ Elinde bir Figma ya da Dribbble tasarımı mı var? Onu birebir, animasyonlu ve 
 
 Bu uygulamadaki şu parçaları başka projelerde de kullanılabilsin diye **[Plugins](https://github.com/SafaSenturk/Plugins)** reposuna ekledim. Oradan erişip kendi projene kopyalayabilirsin:
 
-- **[flutter-motion-kit](https://github.com/SafaSenturk/Plugins/tree/main/flutter-motion-kit)**: kaydırarak onayla düğmesi, Pressable, sırayla belirme (Reveal) ve buzlu cam.
-- **[flutter-dev-tools](https://github.com/SafaSenturk/Plugins/tree/main/flutter-dev-tools)**: tasarımla piksel karşılaştırma betikleri (compare / measure) ve README görsel araçları.
+- **[flutter-motion-kit](https://github.com/SafaSenturk/Plugins/tree/main/mobile/flutter-motion-kit)**: kaydırarak onayla düğmesi, Pressable, sırayla belirme (Reveal) ve buzlu cam.
+- **[flutter-dev-tools](https://github.com/SafaSenturk/Plugins/tree/main/tools/flutter-dev-tools)**: tasarımla piksel karşılaştırma betikleri (compare / measure) ve README görsel araçları.
 
 ---
 
@@ -295,8 +295,8 @@ Have a Figma or Dribbble design? I can turn it into a pixel-perfect, animated, w
 
 These parts of the app are available in the **[Plugins](https://github.com/SafaSenturk/Plugins)** repo, ready to copy into your own project:
 
-- **[flutter-motion-kit](https://github.com/SafaSenturk/Plugins/tree/main/flutter-motion-kit)**: the slide-to-confirm control, Pressable, staggered Reveal and frosted Glass.
-- **[flutter-dev-tools](https://github.com/SafaSenturk/Plugins/tree/main/flutter-dev-tools)**: the pixel comparison scripts (compare / measure) and README image tools.
+- **[flutter-motion-kit](https://github.com/SafaSenturk/Plugins/tree/main/mobile/flutter-motion-kit)**: the slide-to-confirm control, Pressable, staggered Reveal and frosted Glass.
+- **[flutter-dev-tools](https://github.com/SafaSenturk/Plugins/tree/main/tools/flutter-dev-tools)**: the pixel comparison scripts (compare / measure) and README image tools.
 
 ---
 
